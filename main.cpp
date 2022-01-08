@@ -35,7 +35,7 @@ private:
         N data;
     };
 
-    int size = 0;
+    int size;
     Node<T> *pHead;
 };
 
